@@ -1,0 +1,9 @@
+name: SkySpawner
+version: 0.1
+author: kaelea
+description: Spawns mobs
+main: me.kaelea.SkySpawner.SkySpawner
+commands:
+  sz:
+    description: Spawns a zombie
+    usage: '/sz'
